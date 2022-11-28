@@ -330,13 +330,27 @@
         margin-top: 3px;
     }
     .fooot {
-        margin-top: 382px;
+        margin-top: 198px;
     }
     .good-nov h1 {
         width: 145px;
         top: 190px;
         font-size: 11px;
         z-index: 99;
+    }
+    .craft-lini {
+        margin-left: 26px;
+    }
+    .what button{
+        margin-left: 55px;
+
+    }
+    .good-nov {
+        margin-left: -56px;
+    }
+    .good-nov p {
+        width: 103px;
+        font-size: 9px;
     }
     .good-blocs{
         height: 356px;
@@ -366,6 +380,10 @@
     .footer img{
         padding: 30px 0;
     }
+    #footer{
+        padding:198px 0;
+    }
+
 }
 @media (max-width: 320px) {
 }
