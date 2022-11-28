@@ -1,0 +1,371 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+    .what-img img{
+        width: 90%;
+    }
+    .good-nov {
+        margin-left: 232px;
+    }
+
+    .share-imj img{
+        width: 90%;
+    }
+    .line img{
+        width: 90%;
+    }
+    .iline-tialtl h1 {
+        font-weight: 400;
+        font-size: 29px;}
+    .hero h1 {
+        font-weight: 700;
+        font-size: 41px;
+    }
+    #header{
+    position:fixed;
+        background: rgba(238, 236, 231, 0.3);
+        z-index: 99;
+        width: 100%;
+        backdrop-filter: blur(10px);
+
+    }
+    .shoot-taitl p {
+        font-weight: 400;
+        font-size: 20px;}
+    .add h1 {
+        font-size: 31px;
+    }
+
+    .share-2 h1 {
+        font-weight: 400;
+        font-size: 48px;}
+.shoot-taitl h1 {
+    font-weight: 400;
+    font-size: 27px;}
+}
+
+@media (max-width: 768px) {
+    #footer {
+        padding: 228px 0;}
+    .good-nov {
+        margin-left: 34px;
+    }
+    .header-rightd a{
+        display: none;
+    }
+    .header-left a{
+        display: none;
+    }
+    #header {
+        width: 79%;}
+    .hero-img img{
+        width: 90%;
+    }
+    .hero-foto img{
+        width: 90%;
+    }
+    .line{
+        flex-direction: column;
+    }
+    .shoot{
+        margin-top: 50px;
+        flex-direction: column;
+    }
+    .addd {
+        flex-direction: column;
+
+    }
+    .share-2 h1 {
+        margin-top: 59px;
+    }
+    .share{
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .share-2 p {
+        padding: 7px 0;
+        font-weight: 400;
+        font-size: 20px;}
+    .offer h1 {
+        padding: -12px 0;
+        font-weight: 400;
+        font-size: 39px;}
+    .offer p {
+        padding: -6px 0;
+        font-size: 24px;
+    }
+    .offer-foto img{
+        width: 90%;
+    }
+    .footer{
+        padding-top: 651px;
+        flex-flow: wrap;
+    }
+    .what-tilt h1 {
+        font-weight: 700;
+        font-size: 26px;}
+    .what button {
+        margin-left: 197px;
+        width: 248px;
+        height: 64px;}
+    .hek{
+        font-size: 20px;
+    }
+
+}
+@media (max-width: 576px) {
+    .craft-lini {
+        margin-left: 196px;}
+    .good-bloc img{
+        width: 42%;
+    }
+    .good-blocs img{
+        width: 62%;
+    }
+    .good-nov{
+    margin-left: -43px;}
+    .good-blocs {
+        margin: 30px 0;
+        background: #8BFFB0;
+        width: 360px;
+        height: 355px;
+        border-radius: 8px;
+        position: relative;
+        right: -6px;}
+    .offer a {
+        margin-left: 229px;
+        font-weight: 400;
+        font-size: 23px;}
+    .good-nov p{
+        position: absolute;
+        left: 216px;
+        width: 212px;
+        top: 253px;
+        font-size: 10px;
+    }
+    .good-nov h1{
+        position: absolute;
+        left: 220px;
+        width: 200px;
+        top: 193px;
+        font-size: 13px;
+    }
+    .good-nov a{
+        position: absolute;
+        left: 222px;
+        width: 157px;
+        top: 105px;
+        font-size: 15px;
+    }
+    #footer{
+        padding: 92px 0;
+    }
+    .footer {
+        padding-top: 792px;
+        flex-flow: wrap;
+    }
+    .what h1{
+        font-size: 44px;
+    }
+    .what p {
+        padding: 23px 0;
+        margin-top: 14px;
+        font-weight: 400;
+        font-size: 15px;}
+    .what{
+        height: 312px;
+
+    }
+    .what button {
+        margin-left: 118px;
+        width: 225px;
+        height: 56px;
+    }
+    .what-tilt h1 {
+        font-weight: 700;
+        font-size: 19px;
+        margin-left: 137px;
+    }
+    .add-img img {
+        margin-left: 26px;
+        width: 90%;
+    }
+    .shoot img{
+        width: 90%;
+    }
+    .shoot-tel img{
+        width: 90%;
+    }
+}
+@media (max-width: 454px) {
+    .good-blocs {
+        margin: 30px 0;
+        background: #8BFFB0;
+        width: 340px;
+        height: 384px;
+        position: relative;
+        right: 4px;
+        border-radius: 8px;
+    }
+    .good-blocs img {
+        width: 61%;
+    }
+    .good-blocs{
+
+    }
+    .swiper{
+        width: 90%;
+    }
+    .swiper-slide {
+        background: #0A0A0A;
+        flex-shrink: 0;
+        width: 100%;
+        height: 400px;
+        position: relative;
+        transition-property: transform;
+    }
+    .shoot-taitl h1 {
+        margin-top: 143px;
+    }
+    .good-nov p{
+        width: 155px;
+    }
+    .what button {
+        margin-left: 46px;
+        width: 210px;
+        height: 51px;
+    }
+    .what-img img {
+        width: 100%;
+    }
+    .what h1{
+        font-size: 20px;
+    }
+    .what-tilt h1 {
+
+        font-size: 13px;
+        margin-left: 197px;
+        padding-top: 34px;}
+    .footer {
+        margin: 010px;
+        padding-top: 434px;
+        flex-flow: wrap;
+    }
+    .bloc-tailtl {
+        position: absolute;
+        bottom: 25px;
+        left: -4px;
+    }
+    .element.style. {
+        height: 300px;
+        width: 116.667px;
+        margin-right: 30px;
+    }
+
+
+}
+@media (max-width: 400px) {
+    .bloc-tailtl {
+        position: absolute;
+        bottom: -119px;
+        left: -1px;
+    }
+    .bloc-tailtl h1 {
+        font-weight: 400;
+        font-size: 11px;}
+    .bloc-tailtl p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;}
+}
+@media (max-width: 376px) {
+    .craft-lini {
+        margin-left: 61px;
+    }
+    .offer h1{
+        font-size: 18px;
+    }
+    .craft h1{
+        font-size: 21px;
+    }
+    .hero h1{
+        font-size: 17px;
+
+    }
+    .good-blocs {
+        margin: 30px 0;
+        background: #8BFFB0;
+        width: 294px;
+        height: 371px;
+        position: relative;
+        right: 4px;
+        border-radius: 15px;
+    }
+    .good-nov{
+        margin-left: -71px;
+    }
+    .good-nov a {
+        position: absolute;
+        left: 222px;
+        width: 112px;
+
+        font-size: 12px;
+    }
+    .good-nov h1 {
+        width: 145px;
+        top: 193px;
+        font-size: 11px;
+    }
+    .good-nov p{
+        width: 155px;
+        font-size: 9px;
+    }
+    .offer p{
+        font-size: 14px;
+    }
+    .share-2 h1 {
+        font-size: 30px;}
+    .good-bad{
+        margin-top: 3px;
+    }
+    .fooot {
+        margin-top: 382px;
+    }
+    .good-nov h1 {
+        width: 145px;
+        top: 190px;
+        font-size: 11px;
+        z-index: 99;
+    }
+    .good-blocs{
+        height: 356px;
+    right: -70px;
+    }
+    .header-left h1 {
+        color: wheat;
+        font-size: 28px;
+        font-weight: 900;
+    }
+    #header {
+        width: 79%;
+        border-radius: 6px;
+    }
+    .hero button:hover{
+        background: lawngreen;
+        color: darkturquoise;
+        transform: scale(1.1);
+    }
+    .line img {
+        margin-top: 290px;
+        width: 90%;
+    }
+    .swiper-slide {
+        background: none;
+    }
+    .footer img{
+        padding: 30px 0;
+    }
+}
+@media (max-width: 320px) {
+}
